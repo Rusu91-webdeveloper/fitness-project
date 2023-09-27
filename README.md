@@ -1,3 +1,3 @@
 # fitness-project
 ---
-https://github.com/Rusu91-webdeveloper/fitness-project/
+https://rusu91-webdeveloper.github.io/fitness-project/
