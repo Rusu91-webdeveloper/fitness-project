@@ -1,0 +1,35 @@
+ - Final Project Web Development - ENGLISH
+
+Final Project Web Development
+
+Create a website with HTML and CSS.
+
+Instructions:
+Choose a topic. The website could be about anything you want.
+Think of the content you will have on your website.
+Design your website (You can use pen and paper or a wire framing tool like Figma).
+Mentally convert your design into html elements thinking with boxes.
+Create your HTML file/files and write the code.
+Create your CSS file/files and style your elements.
+Tips:
+Keep it simple, you do not have a lot of time. Try to make a minimum viable product (MVP). If you have time you can add stuff later. Better something small but clean and good structured than something big and unorganized.
+Use the internet for inspiration, you can get code snippets from the internet but understand what they do first. Don't use stuff that you don't understand. Don't use templates and just change the content.
+You don't have to use everything we've talked about, try to use things that make sense for your page.
+Have real content, try to avoid using "lorem".
+Stick to one resolution / browser window size. Trying to make it responsive might be too much for this project.
+Ask questions when needed.
+Project Ideas:
+1. Resume / Curriculum Vitae / "Lebenslauf" / Personal Portfolio
+2. Tourism website / Website about your home country or city
+3. Small Company / Firm website
+4. Band/Music Website
+5. Recipes Website / Restaurant website
+Project examples:
+https://gael-src.github.io/first-website/
+https://lorp91.github.io/first-website/#home
+https://dkathrine.github.io/
+
+No slides or PowerPoint are needed for the presentation.
+Only screen share in MS-Teams, ~10 min per person.
+
+Remember to upload a compressed version (zip) of your project folder in the MS-Teams (here) assignment before the presentations.
